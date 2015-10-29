@@ -28,6 +28,6 @@ table(N)
 
 for i = 2, i < N, i++
   if isprime(i) == 1
-    puts i, " is prime"
+    #puts i, " is prime"
   end
 end

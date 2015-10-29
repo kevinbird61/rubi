@@ -1,0 +1,86 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+ no time accumulated
+
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  Ts/call  Ts/call  name    
+  0.00      0.00     0.00      302     0.00     0.00  skip
+  0.00      0.00     0.00       33     0.00     0.00  dasm_put
+  0.00      0.00     0.00       18     0.00     0.00  isassign
+  0.00      0.00     0.00       15     0.00     0.00  expression
+  0.00      0.00     0.00        9     0.00     0.00  isIndex
+  0.00      0.00     0.00        9     0.00     0.00  mulDivExpr
+  0.00      0.00     0.00        9     0.00     0.00  primExpr
+  0.00      0.00     0.00        6     0.00     0.00  addSubExpr
+  0.00      0.00     0.00        6     0.00     0.00  dasm_growpc
+  0.00      0.00     0.00        5     0.00     0.00  condExpr
+  0.00      0.00     0.00        5     0.00     0.00  eval
+  0.00      0.00     0.00        5     0.00     0.00  relExpr
+  0.00      0.00     0.00        3     0.00     0.00  getVar
+  0.00      0.00     0.00        2     0.00     0.00  appendFunc
+  0.00      0.00     0.00        2     0.00     0.00  dasm_getpclabel
+  0.00      0.00     0.00        2     0.00     0.00  getFunc
+  0.00      0.00     0.00        2     0.00     0.00  make_stdfunc
+  0.00      0.00     0.00        1     0.00     0.00  appendVar
+  0.00      0.00     0.00        1     0.00     0.00  dasm_encode
+  0.00      0.00     0.00        1     0.00     0.00  dasm_free
+  0.00      0.00     0.00        1     0.00     0.00  dasm_init
+  0.00      0.00     0.00        1     0.00     0.00  dasm_link
+  0.00      0.00     0.00        1     0.00     0.00  dasm_setup
+  0.00      0.00     0.00        1     0.00     0.00  dasm_setupglobal
+  0.00      0.00     0.00        1     0.00     0.00  declareVariable
+  0.00      0.00     0.00        1     0.00     0.00  dispose
+  0.00      0.00     0.00        1     0.00     0.00  execute
+  0.00      0.00     0.00        1     0.00     0.00  freeAddr
+  0.00      0.00     0.00        1     0.00     0.00  functionStmt
+  0.00      0.00     0.00        1     0.00     0.00  ifStmt
+  0.00      0.00     0.00        1     0.00     0.00  init
+  0.00      0.00     0.00        1     0.00     0.00  jit_finalize
+  0.00      0.00     0.00        1     0.00     0.00  jit_init
+  0.00      0.00     0.00        1     0.00     0.00  lex
+  0.00      0.00     0.00        1     0.00     0.00  parser
+  0.00      0.00     0.00        1     0.00     0.00  set_xor128
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+ no time accumulated
+
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  Ts/call  Ts/call  name    
+  0.00      0.00     0.00      302     0.00     0.00  skip
+  0.00      0.00     0.00       33     0.00     0.00  dasm_put
+  0.00      0.00     0.00       18     0.00     0.00  isassign
+  0.00      0.00     0.00       15     0.00     0.00  expression
+  0.00      0.00     0.00        9     0.00     0.00  isIndex
+  0.00      0.00     0.00        9     0.00     0.00  mulDivExpr
+  0.00      0.00     0.00        9     0.00     0.00  primExpr
+  0.00      0.00     0.00        6     0.00     0.00  addSubExpr
+  0.00      0.00     0.00        6     0.00     0.00  dasm_growpc
+  0.00      0.00     0.00        5     0.00     0.00  condExpr
+  0.00      0.00     0.00        5     0.00     0.00  eval
+  0.00      0.00     0.00        5     0.00     0.00  relExpr
+  0.00      0.00     0.00        3     0.00     0.00  getVar
+  0.00      0.00     0.00        2     0.00     0.00  appendFunc
+  0.00      0.00     0.00        2     0.00     0.00  dasm_getpclabel
+  0.00      0.00     0.00        2     0.00     0.00  getFunc
+  0.00      0.00     0.00        2     0.00     0.00  make_stdfunc
+  0.00      0.00     0.00        1     0.00     0.00  appendVar
+  0.00      0.00     0.00        1     0.00     0.00  dasm_encode
+  0.00      0.00     0.00        1     0.00     0.00  dasm_free
+  0.00      0.00     0.00        1     0.00     0.00  dasm_init
+  0.00      0.00     0.00        1     0.00     0.00  dasm_link
+  0.00      0.00     0.00        1     0.00     0.00  dasm_setup
+  0.00      0.00     0.00        1     0.00     0.00  dasm_setupglobal
+  0.00      0.00     0.00        1     0.00     0.00  declareVariable
+  0.00      0.00     0.00        1     0.00     0.00  dispose
+  0.00      0.00     0.00        1     0.00     0.00  execute
+  0.00      0.00     0.00        1     0.00     0.00  freeAddr
+  0.00      0.00     0.00        1     0.00     0.00  functionStmt
+  0.00      0.00     0.00        1     0.00     0.00  ifStmt
+  0.00      0.00     0.00        1     0.00     0.00  init
+  0.00      0.00     0.00        1     0.00     0.00  jit_finalize
+  0.00      0.00     0.00        1     0.00     0.00  jit_init
+  0.00      0.00     0.00        1     0.00     0.00  lex
+  0.00      0.00     0.00        1     0.00     0.00  parser
+  0.00      0.00     0.00        1     0.00     0.00  set_xor128
